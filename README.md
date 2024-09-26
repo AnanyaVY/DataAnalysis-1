@@ -5,11 +5,10 @@
 1. Project Overview
 2. Dataset Description
 3. Installation and Requirements
-4. Project Structure
-5. Data Cleaning and Preparation\
-6. Analysis and Insights
-7. Visualization
-8. Conclusions
+4. Data Cleaning and Preparation
+5. Analysis and Insights
+6. Visualization
+
 
   ## 1. Project Overview:
 
